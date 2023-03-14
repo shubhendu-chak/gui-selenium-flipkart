@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 public class Common {
 
-    private final static String CHROME_DRIVER_PATH = "C:\\Professional\\Tools\\Selenium\\Drivers\\chromedriver.exe";
+    private final static String CHROME_DRIVER_PATH = "<Driver Path>\\chromedriver.exe";
 
     public static WebDriver openFlipKart() {
         WebDriver driver;
